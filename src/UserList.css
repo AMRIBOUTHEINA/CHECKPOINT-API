@@ -1,0 +1,37 @@
+.MonApp{
+    background-image: url(monimage.jpg);
+   }
+   .listtitle{
+    
+     color: rgba(126, 17, 111, 0.849);
+     margin-left: 500px;
+     font-weight: 600;
+     font-style: italic;
+     text-decoration:underline;
+    
+   }
+   .sousapp{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-around;
+   }
+   .mb-2{
+     width:370px;
+     height:500px;
+   }
+   .card_header{
+     background-color:rgb(55, 105, 63);
+     color:black;
+   }
+   span {
+    color:darkgreen;
+    font-size:large;
+     font-family: 'Times New Roman', Times, serif;
+     font-style: italic;
+   }
+   p{
+     color: black;
+     font-size:medium;
+     font-family: sans-serif;
+     font-style: italic;
+   }
